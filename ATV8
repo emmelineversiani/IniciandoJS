@@ -1,0 +1,5 @@
+let = nom = prompt("Informe seu nome completo")
+Let = cid = prompt("Informe sua cidade")
+Let = cur = prompt("Informe qual seu curso")
+
+    alert(`Seja bem vindo! Nome: ${nom}. Reside em: ${cid}. Curso: ${cur}`)
