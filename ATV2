@@ -1,0 +1,3 @@
+ let nom = prompt("Digite o seu primeiro nome: ")
+      let sob = prompt("Digite seu último sobrenome")
+        alert(`Seu nome completo é ${nom} ${sob}`)
