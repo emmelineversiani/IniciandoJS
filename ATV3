@@ -1,0 +1,5 @@
+let piz  = Number(prompt("Quantos pedaços de pizza você comeu?"))
+let ref = Number(prompt("Quantos copos de refrigerante você bebeu?"))
+let soma = piz + ref
+
+    alert(`Você consumiu um total de ${soma} itens`);
