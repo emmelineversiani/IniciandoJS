@@ -1,0 +1,2 @@
+let = nom = prompt ("Digite seu nome")
+    alert(`Olá, ${nom}! Tenha um ótimo dia!`)
