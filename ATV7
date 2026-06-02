@@ -1,0 +1,6 @@
+let = n1 = Number(prompt("Digite o primeiro número"))
+Let = n2 = Number(prompt("Digite o segundo número"))
+Let = n3 = Number(prompt("Digite o terceito número"))
+Let = soma = n1 + n2+ n3
+
+    alert(`A soma dos três números escolhidos é: ${soma}`)
