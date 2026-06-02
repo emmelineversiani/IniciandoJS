@@ -1,0 +1,4 @@
+let = nom = Number(prompt ("Digite um número"))
+let = dob = nom * 2
+
+    alert(`O dobro do número que você digitou é ${dob}`)
