@@ -1,0 +1,3 @@
+let = id = Number(prompt("Digite seu primeiro nome"))
+let = idf = id + 10
+    alert(`Você tem ${id} anos e daqui 10 anos você terá ${idf} anos!`)
